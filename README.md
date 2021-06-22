@@ -12,7 +12,7 @@
 - 💬 Ask me about **web development , Django, Tech tips and tools**
 
 - 📫 How to reach me **adityapandaofficial@gmail.com**
-
+- 👨‍💼 To Hire me, message me on [Linkedin](https://linkedin.com/in/aditya-panda) 
 - ⚡ Fun fact **I am very compatible to work and collaborate.**
 
 
