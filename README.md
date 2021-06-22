@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapandadev&label=Visitors&color=0e75b6&style=plastic" alt="adityapandadev" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Growing everyday by learning more and more.
 
 - 👨‍💻 All of my projects are available at [aditya-panda.netlify.app](https://aditya-panda.netlify.app)
 
