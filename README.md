@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [aditya-panda.netlify.app](https://aditya-panda.netlify.app)
 
-- 📝 I regularly write articles on [aditya-panda.netlify.app/blogs.html](https://aditya-panda.netlify.app/blogs.html)
+- 📝 Sometimes I write articles on [aditya-panda.netlify.app/blogs.html](https://aditya-panda.netlify.app/blogs.html)
 
 - 💬 Ask me about **web development , Django, Tech tips and tools**
 
